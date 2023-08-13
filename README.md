@@ -2,9 +2,11 @@
 Currently working for my README.md file
 
 Hi and welcome to my GitHub profile!
-while I'm not sure what to type but like to say hi!
+while I'm not sure what to type but like to say hi! ✌
 
 I do know somewhat the basics of the HTML but that's it 👽
+
+
 I do also translate other projects!
 
 
