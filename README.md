@@ -1,5 +1,5 @@
 ### (❁´◡`❁)       Hi there 👋         (●'◡'●)
-🚧 Currently in-work for my README.md file 🚧
+🚧 Currently a work-in progress for my README.md file 🚧
 
 Hi and welcome to my GitHub profile!
 while I'm not sure what to type but like to say hi! ✌
@@ -7,7 +7,7 @@ while I'm not sure what to type but like to say hi! ✌
 I do know somewhat the basics of the HTML but that's it 👽
 
 
-I do also translate other projects!
+I do also translate other projects for my time!
 
 
 <!--
